@@ -6,7 +6,8 @@ this will work with Chrome(101) with TamperMonkey extension(ver. 4.16 ) or FireF
 
  grab your favorite cut and past the bluebutton.js into a new script window and save 
  when you refresh you should be greeted with a "blue" button CLICK IT ![image](https://user-images.githubusercontent.com/3157472/167072075-43d99d01-aecb-41d5-a768-77bd7e0c9fe2.png)
-... next up is the metamask one click to sign in (it should be blue by default I dont control that one.)   Congrats you now have the key to pagesVFX Lands. 
+... next up is the metamask one click to sign in (it should be blue by default I dont control that one.)  ![image](https://user-images.githubusercontent.com/3157472/167072212-9bc0bf92-01d1-4dd1-915a-6670f7a9695c.png)
+ Congrats you now have the key to pagesVFX Lands. 
  ![image](https://user-images.githubusercontent.com/3157472/167072096-cfb463c6-2b16-483b-bcdb-dc651a56995e.png)
 click the final blue GO and get to farming $bob. 
   
