@@ -3,7 +3,7 @@
 ## The blue button is to help with the unlocking of $bob faucets on lands owned by PAGESVFX ##
 ---
 
-###Confirmed to work with## 
+### Confirmed to work with ### 
 * Chrome(101) with TamperMonkey extension(ver. 4.16 ) 
 * FireFox(100) with the Grease Monkey extension (ver. 4.11) 
 
