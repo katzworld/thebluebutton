@@ -13,8 +13,3 @@ click the final blue GO and get to farming $bob.
   
   This portal is yours to use and plunder the plots of $bob ! 
   its a key to the WORLD (3210 at time of making) and counting 
-
-
-
-
-
