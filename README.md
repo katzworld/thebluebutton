@@ -3,6 +3,11 @@
 ## The blue button is to help with the unlocking of $bob faucets on lands owned by PAGESVFX ##
 ---
 
+merry go round shutdown ![image](https://user-images.githubusercontent.com/3157472/169630574-a66b6331-85b0-4b18-8c5f-4af544eeb654.png)
+
+
+fun while it lasted good things have been learned and skills have been challenged will revisit this work get working ... TBC
+
 ### Confirmed to work with ### 
 * Chrome(101) with TamperMonkey extension(ver. 4.16 ) 
 * FireFox(100) with the Grease Monkey extension (ver. 4.11) 
